@@ -6,12 +6,48 @@ Instead of waiting for office hours or contacting staff, students can ask questi
 
 This project reduces the workload of college staff while improving student support.
 
-## Objectives
+## Chatbot Features
+- Ask questions in simple English.
+- Understand different ways of asking the same question.
+- Answer frequently asked student questions
+- Intent prediction using Machine Learning
+- Greeting messages.
+- Thank you and goodbye responses.
+- Handle unknown questions politely.
 
-The main objectives are to:
+## Technologies Used
 
-- Answer student queries instantly.
-- Reduce manual work for administrative staff.
-- Improve student satisfaction.
-- Provide accurate and consistent information.
-- Support multiple categories of question
+- Python
+- Flask
+- HTML
+- CSS
+- SQLite
+- Pandas
+- NumPy
+- Scikit-learn
+- NLTK
+- Joblib
+
+## Project Structure
+
+```
+StudentChatbot/
+│
+├── app.py
+├── chatbot.py
+├── train.py
+├── dataset.csv
+├── model.pkl
+├── vectorizer.pkl
+├── requirements.txt
+├── README.md
+├── database.db
+│
+├── templates/
+│   └── index.html
+│
+├── static/
+│   └── style.css
+```
+
+---
