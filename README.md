@@ -31,7 +31,7 @@ This project reduces the workload of college staff while improving student suppo
 ## Project Structure
 
 ```
-StudentChatbot/
+AI-Student-Chatbot/
 │
 ├── app.py
 ├── chatbot.py
@@ -48,6 +48,112 @@ StudentChatbot/
 │
 ├── static/
 │   └── style.css
+```
+
+---
+
+## Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/StudentChatbot.git
+```
+
+### 2. Open the project
+
+```bash
+cd StudentChatbot
+```
+
+### 3. Create a virtual environment
+
+Windows
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+Linux/macOS
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+### 4. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## Training the Model
+
+Run the following command:
+
+```bash
+python train.py
+```
+
+This will generate:
+
+- model.pkl
+- vectorizer.pkl
+
+---
+
+## Running the Project
+
+Start the Flask server:
+
+```bash
+python app.py
+```
+
+Open your browser:
+
+```
+http://127.0.0.1:5000
+```
+
+---
+
+---
+
+## Machine Learning Algorithm
+
+The chatbot uses:
+
+- TF-IDF Vectorizer
+- Multinomial Naive Bayes Classifier
+
+---
+
+## Workflow
+
+```
+User Question
+      │
+      ▼
+Text Preprocessing
+      │
+      ▼
+TF-IDF Vectorization
+      │
+      ▼
+Machine Learning Model
+      │
+      ▼
+Intent Prediction
+      │
+      ▼
+Retrieve Response
+      │
+      ▼
+Display Response
 ```
 
 ---
