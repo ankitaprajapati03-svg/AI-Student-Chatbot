@@ -157,3 +157,31 @@ Display Response
 ```
 
 ---
+
+## Working of Chatbot
+---
+```
+Student types a question
+          │
+          ▼
+     chatbot.py
+          │
+          ▼
+Load model.pkl
+          │
+          ▼
+Load vectorizer.pkl
+          │
+          ▼
+Convert text into numbers
+          │
+          ▼
+Predict intent
+          │
+          ▼
+Search dataset.csv
+          │
+          ▼
+Return matching response
+```
+---
