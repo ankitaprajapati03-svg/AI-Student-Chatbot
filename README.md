@@ -51,7 +51,20 @@ AI-Student-Chatbot/
 ```
 
 ---
+## About Dataset
+The dataset includes:
+✅ Question
+✅ Intent
+✅ Response
+✅ Around 300 balanced rows
 
+Includes intents such as:
+- Greeting
+- Goodbye
+- Admission
+- Fees
+- Hostel
+- Plus additional sample intents to increase training data.
 ## Installation
 
 ### 1. Clone the repository
