@@ -159,7 +159,7 @@ Display Response
 ---
 
 ## Working of Chatbot
----
+
 ```
 Student types a question
           │
@@ -187,6 +187,30 @@ Return matching response
 ---
 
 
+## Database Workflow
+
+```
+   Student
+     │
+     ▼
+   Flask
+     │
+     ▼
+chatbot.py
+     │
+     ▼
+Predict Intent
+     │
+     ▼
+Generate Response
+     │
+     ▼
+Save Question + Response
+     │
+     ▼
+SQLite Database
+```
+---
 ## Chatbot Interface
 
 ![Chatbot](screenshots/1.png)
