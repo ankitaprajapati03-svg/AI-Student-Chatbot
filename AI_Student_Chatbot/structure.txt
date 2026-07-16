@@ -1,0 +1,18 @@
+StudentChatbot/
+│
+├── app.py
+├── train.py
+├── chatbot.py
+├── dataset.csv
+├── requirements.txt
+├── model.pkl
+├── vectorizer.pkl
+├── database.db
+│
+├── templates/
+│   └── index.html
+│
+├── static/
+│   └── style.css
+│
+└── README.md

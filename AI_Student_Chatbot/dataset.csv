@@ -1,0 +1,101 @@
+Question,Intent,Response
+Hi,Greeting,Hello! Welcome to Student Support Services. How can I help you today?
+Hello,Greeting,Hello! Welcome to Student Support Services. How can I help you today?
+Hey,Greeting,Hello! Welcome to Student Support Services. How can I help you today?
+Good morning,Greeting,Hello! Welcome to Student Support Services. How can I help you today?
+Good afternoon,Greeting,Hello! Welcome to Student Support Services. How can I help you today?
+Good evening,Greeting,Hello! Welcome to Student Support Services. How can I help you today?
+Is anyone there?,Greeting,Hello! Welcome to Student Support Services. How can I help you today?
+Can you help me?,Greeting,Hello! Welcome to Student Support Services. How can I help you today?
+Bye,Goodbye,Thank you for contacting Student Support. Have a great day!
+Goodbye,Goodbye,Thank you for contacting Student Support. Have a great day!
+See you,Goodbye,Thank you for contacting Student Support. Have a great day!
+Thanks bye,Goodbye,Thank you for contacting Student Support. Have a great day!
+Talk to you later,Goodbye,Thank you for contacting Student Support. Have a great day!
+Exit,Goodbye,Thank you for contacting Student Support. Have a great day!
+What is the admission process?,Admission,You can apply through the college admission portal and submit the required documents.
+How do I apply for admission?,Admission,You can apply through the college admission portal and submit the required documents.
+Admission last date?,Admission,You can apply through the college admission portal and submit the required documents.
+Required documents for admission?,Admission,You can apply through the college admission portal and submit the required documents.
+Can I apply online?,Admission,You can apply through the college admission portal and submit the required documents.
+Admission eligibility?,Admission,You can apply through the college admission portal and submit the required documents.
+Admission fee?,Admission,You can apply through the college admission portal and submit the required documents.
+How can I pay my fees?,Fees,You can pay fees online through the student portal or at the accounts office.
+What is the tuition fee?,Fees,You can pay fees online through the student portal or at the accounts office.
+Fee payment deadline?,Fees,You can pay fees online through the student portal or at the accounts office.
+Can I pay fees online?,Fees,You can pay fees online through the student portal or at the accounts office.
+Is installment available?,Fees,You can pay fees online through the student portal or at the accounts office.
+Hostel fee payment?,Fees,You can pay fees online through the student portal or at the accounts office.
+Fee receipt download?,Fees,You can pay fees online through the student portal or at the accounts office.
+When are semester exams?,Exam,Please check the academic calendar for the latest examination schedule.
+Exam timetable?,Exam,Please check the academic calendar for the latest examination schedule.
+Exam dates?,Exam,Please check the academic calendar for the latest examination schedule.
+Supplementary exam details?,Exam,Please check the academic calendar for the latest examination schedule.
+How to download admit card?,Exam,Please check the academic calendar for the latest examination schedule.
+Internal exam schedule?,Exam,Please check the academic calendar for the latest examination schedule.
+Practical exam date?,Exam,Please check the academic calendar for the latest examination schedule.
+Library timing?,Library,The library is open from 9:00 AM to 8:00 PM on weekdays.
+How to issue books?,Library,The library is open from 9:00 AM to 8:00 PM on weekdays.
+Book return policy?,Library,The library is open from 9:00 AM to 8:00 PM on weekdays.
+Library card process?,Library,The library is open from 9:00 AM to 8:00 PM on weekdays.
+Can I renew books online?,Library,The library is open from 9:00 AM to 8:00 PM on weekdays.
+How many books can I borrow?,Library,The library is open from 9:00 AM to 8:00 PM on weekdays.
+Is library open on Saturday?,Library,The library is open from 9:00 AM to 8:00 PM on weekdays.
+Hostel fee?,Hostel,Hostel facilities are available for eligible students. Contact the hostel office for details.
+Hostel facilities?,Hostel,Hostel facilities are available for eligible students. Contact the hostel office for details.
+How to apply for hostel?,Hostel,Hostel facilities are available for eligible students. Contact the hostel office for details.
+Hostel rules?,Hostel,Hostel facilities are available for eligible students. Contact the hostel office for details.
+Girls hostel availability?,Hostel,Hostel facilities are available for eligible students. Contact the hostel office for details.
+Boys hostel availability?,Hostel,Hostel facilities are available for eligible students. Contact the hostel office for details.
+Mess timing?,Hostel,Hostel facilities are available for eligible students. Contact the hostel office for details.
+Scholarship details?,Scholarship,Scholarships are available based on eligibility and government schemes.
+How to apply for scholarship?,Scholarship,Scholarships are available based on eligibility and government schemes.
+Scholarship last date?,Scholarship,Scholarships are available based on eligibility and government schemes.
+Who is eligible for scholarship?,Scholarship,Scholarships are available based on eligibility and government schemes.
+Required documents for scholarship?,Scholarship,Scholarships are available based on eligibility and government schemes.
+Merit scholarship?,Scholarship,Scholarships are available based on eligibility and government schemes.
+Government scholarship?,Scholarship,Scholarships are available based on eligibility and government schemes.
+Attendance requirement?,Attendance,Students are required to maintain at least 75% attendance.
+Minimum attendance?,Attendance,Students are required to maintain at least 75% attendance.
+How to check attendance?,Attendance,Students are required to maintain at least 75% attendance.
+Attendance shortage?,Attendance,Students are required to maintain at least 75% attendance.
+Attendance portal?,Attendance,Students are required to maintain at least 75% attendance.
+Can attendance be condoned?,Attendance,Students are required to maintain at least 75% attendance.
+Placement eligibility?,Placement,The placement cell regularly conducts training and recruitment drives.
+Companies visiting campus?,Placement,The placement cell regularly conducts training and recruitment drives.
+Resume format?,Placement,The placement cell regularly conducts training and recruitment drives.
+Interview preparation?,Placement,The placement cell regularly conducts training and recruitment drives.
+Placement training?,Placement,The placement cell regularly conducts training and recruitment drives.
+Highest package?,Placement,The placement cell regularly conducts training and recruitment drives.
+Internship opportunities?,Placement,The placement cell regularly conducts training and recruitment drives.
+Class timetable?,Timetable,You can download the latest timetable from the student portal.
+Today's schedule?,Timetable,You can download the latest timetable from the student portal.
+Where is timetable?,Timetable,You can download the latest timetable from the student portal.
+Updated timetable?,Timetable,You can download the latest timetable from the student portal.
+Lab timetable?,Timetable,You can download the latest timetable from the student portal.
+Holiday list?,Timetable,You can download the latest timetable from the student portal.
+When will results be announced?,Results,Results are published on the official student portal.
+How to check results?,Results,Results are published on the official student portal.
+Result portal?,Results,Results are published on the official student portal.
+Revaluation process?,Results,Results are published on the official student portal.
+Marksheet download?,Results,Results are published on the official student portal.
+Backlog result?,Results,Results are published on the official student portal.
+Available courses?,Courses,Our college offers undergraduate and postgraduate programs across multiple disciplines.
+BCA course details?,Courses,Our college offers undergraduate and postgraduate programs across multiple disciplines.
+MCA duration?,Courses,Our college offers undergraduate and postgraduate programs across multiple disciplines.
+Engineering branches?,Courses,Our college offers undergraduate and postgraduate programs across multiple disciplines.
+Course syllabus?,Courses,Our college offers undergraduate and postgraduate programs across multiple disciplines.
+Elective subjects?,Courses,Our college offers undergraduate and postgraduate programs across multiple disciplines.
+Who is my class teacher?,Faculty,Faculty details are available on the college website.
+Faculty contact?,Faculty,Faculty details are available on the college website.
+Department HOD?,Faculty,Faculty details are available on the college website.
+Office timings of faculty?,Faculty,Faculty details are available on the college website.
+Mentor details?,Faculty,Faculty details are available on the college website.
+College contact number?,Contact,You can contact the helpdesk at support@college.edu or visit the administration office.
+Support email?,Contact,You can contact the helpdesk at support@college.edu or visit the administration office.
+Office location?,Contact,You can contact the helpdesk at support@college.edu or visit the administration office.
+Helpdesk timing?,Contact,You can contact the helpdesk at support@college.edu or visit the administration office.
+Whom should I contact?,Contact,You can contact the helpdesk at support@college.edu or visit the administration office.
+Administration office?,Contact,You can contact the helpdesk at support@college.edu or visit the administration office.
+Hey please,Greeting,Hello! Welcome to Student Support Services. How can I help you today?
+Thanks bye please,Goodbye,Thank you for contacting Student Support. Have a great day!
