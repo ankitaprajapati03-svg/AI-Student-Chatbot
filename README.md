@@ -185,6 +185,14 @@ Search dataset.csv
 Return matching response
 ```
 ---
+## Database Schema
+### chat_history
+| Column    | Type      |
+| --------- | --------- |
+| id        | INTEGER   |
+| question  | TEXT      |
+| response  | TEXT      |
+| date_time | TIMESTAMP |
 
 
 ## Database Workflow
